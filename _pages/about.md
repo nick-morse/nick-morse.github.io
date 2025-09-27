@@ -61,9 +61,19 @@ Robert H. & Marjorie F. Jewitt Fund Scholarship, 2017
 
 ## Experience
 
+
+### Postdoctoral Researcher (May 2025 - Present)
+FLOW, Department of Engineering Mechanics, KTH Royal Institute of Technology
+
+* Analysis of structural characteristics of curved and rotating disk turbulent boundary layers.
+* DNS using the open-source GPU-accelerated spectral element code [Neko](https://neko.cfd).
+
+
+
+
 ![image-center](/images/droplet_pinch_off.png){: .align-center}
 
-### Group Leader for Multiscale CFD (August 2025 - April 2025) and Senior Scientist (2023 - Present) 
+### Group Leader for Multiscale CFD (August 2025 - May 2025) and Senior Scientist (August 2023 - May 2025) 
 [Research Center Pharmaceutical Engineering (RCPE)](https://www.rcpe.at/)
 
 * Led the simulation strategy development for an EU Horizon 2020 project.
@@ -75,7 +85,7 @@ Robert H. & Marjorie F. Jewitt Fund Scholarship, 2017
 ![image-center](/images/barehull_Qcriterion.jpg){: .align-center}
 
 ### Graduate Research Assistant (2018 - 2023)
-[Professor Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/), University of Minnesota
+[Professor Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/), Department of Aerospace Engineering & Mechanics, University of Minnesota
 
 * Large-scale (>10000 processor) large-eddy simulations (LES) and direct numerical simulations (DNS) of complex turbulent flows.
   * LES of axisymmetric turbulent boundary layers
@@ -87,7 +97,7 @@ Robert H. & Marjorie F. Jewitt Fund Scholarship, 2017
 ![image-center](/images/particle_liftoff.jpg){: .align-center}
 
 ### Undergraduate Research Assistant (2016 - 2017)
-[Professor Ellen Longmire](https://cse.umn.edu/aem/ellen-k-longmire), University of Minnesota
+[Professor Ellen Longmire](https://cse.umn.edu/aem/ellen-k-longmire), Department of Aerospace Engineering & Mechanics, University of Minnesota
 
 * Particle lift-off and tracking in a turbulent boundary layer
   * Development of wax-iron oxide spheres with controllable density and magnetic release system
