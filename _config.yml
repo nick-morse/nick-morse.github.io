@@ -26,7 +26,7 @@ author:
   altname          : "Nicholas Morse"
   position         : "Postdoc @ KTH Royal Institute of Technology"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher with expertise in large-eddy simulation and direct numerical simulation of turbulent boundary layers, jets, and multiphase flows."
+  bio              : "Direct numerical simulation and large-eddy simulation of turbulent boundary layers, jets, and multiphase flows."
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"
   uri              : # URL
@@ -80,12 +80,12 @@ author:
 publication_category:
   journal_papers:
     title: 'Journal Papers'   
-  thesis:
-    title: 'Thesis' 
   conference_papers:
     title: 'Conference Papers'
   conference_abstracts:
     title: 'Conference Abstracts'
+  thesis:
+    title: 'Thesis' 
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
