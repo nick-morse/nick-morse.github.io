@@ -8,7 +8,7 @@ abstract: Trip-resolved large-eddy simulations of the DARPA SUBOFF are performed
 date: 2023-11-15
 venue: 'Journal of Fluid Mechanics'
 #teaser: /publications/tripping-effects-on-model-scale-studies-of-flow-over-the-darpa-suboff-graph-abs.jpg
-paperurl: /files/tripping-effects-on-model-scale-studies-of-flow-over-the-darpa-suboff.pdf
+# paperurl: /files/tripping-effects-on-model-scale-studies-of-flow-over-the-darpa-suboff.pdf
 linkurl: https://doi.org/10.1017/jfm.2023.777
 citation: 'Morse, N., & Mahesh, K. (2023). &quot;Tripping effects on model-scale studies of flow over the DARPA SUBOFF&quot; <i>Journal of Fluid Mechanics</i>. 975, A3.'
 ---

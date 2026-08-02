@@ -8,7 +8,7 @@ abstract: A new perspective on the analysis of turbulent boundary layers on stre
 date: 2021-09-06
 venue: 'Journal of Fluid Mechanics'
 #teaser: /publications/large-eddy-simulation-and-streamline-coordinate-analysis-of-flow-over-an-axisymmetric-hull-graph-abs.jpg
-paperurl: '/files/large-eddy-simulation-and-streamline-coordinate-analysis-of-flow-over-an-axisymmetric-hull.pdf'
+# paperurl: '/files/large-eddy-simulation-and-streamline-coordinate-analysis-of-flow-over-an-axisymmetric-hull.pdf'
 linkurl: https://doi.org/10.1017/jfm.2021.714
 citation: 'Morse, N., & Mahesh, K. (2021). &quot;Large-eddy simulation and streamline coordinate analysis of flow over an axisymmetric hull&quot; <i>Journal of Fluid Mechanics</i>. 926, A18.'
 ---

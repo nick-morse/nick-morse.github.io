@@ -8,7 +8,7 @@ abstract: Direct numerical simulations (DNS) of a jet in cross-flow (JICF) with 
 date: 2023-02-27
 venue: 'Journal of Fluid Mechanics'
 #teaser: /publications/effect-of-tabs-on-the-shear-layer-dynamics-of-a-jet-in-cross-flow-graph-abs.jpg
-paperurl: '/files/effect-of-tabs-on-the-shear-layer-dynamics-of-a-jet-in-cross-flow.pdf'
+# paperurl: '/files/effect-of-tabs-on-the-shear-layer-dynamics-of-a-jet-in-cross-flow.pdf'
 linkurl: https://doi.org/10.1017/jfm.2023.70
 citation: 'Morse, N., & Mahesh, K. (2023). &quot;Effect of tabs on the shear layer dynamics of a jet in cross-flow&quot; <i>Journal of Fluid Mechanics</i>. 958, A6.'
 ---
