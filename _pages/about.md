@@ -109,7 +109,7 @@ Supervised by [Philipp Schlatter](https://www.lstm.tf.fau.de/person/philipp-schl
 
 ![image-center](/images/simulation_framework_figure.pdf){: .align-center}
 
-### Group Leader for Multiscale CFD (August 2025 - May 2025) and Senior Scientist (August 2023 - May 2025) 
+### Group Leader for Multiscale CFD (January 2025 - May 2025) and Senior Scientist (August 2023 - May 2025) 
 Research Center Pharmaceutical Engineering, Graz, Austria
 
 * Led the simulation strategy development for an EU Horizon 2020 project.
