@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a Postdoctoral Researcher at the KTH Royal Institute of Technology in Stockholm, Sweden, studying curvature and crossflow effects on turbulent flows via extreme-scale direct numerical simulation.
+I'm a Postdoctoral Researcher at the KTH Royal Institute of Technology in Stockholm, Sweden, working with [Philipp Schlatter](https://www.lstm.tf.fau.de/person/philipp-schlatter/), [Ramis Örlü](https://www.oslomet.no/en/about/employee/raorl9534/), and [Mihai Mihaescu](https://www.kth.se/profile/mihaescu) to study curvature and crossflow effects on turbulent flows via extreme-scale direct numerical simulation.
 
 I received my PhD in 2023 under the supervision of [Professor Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/) at the University of Minnesota. The focus of my dissertation was the insight that can be extracted from direct numerical simulation (DNS) and large-eddy simulation (LES) of highly complex turbulent flows, including curved turbulent boundary layers, boundary layer trip memory effects, and jets in crossflow. From 2023 to 2025, I was a Senior Scientist at the Research Center Pharmaceutical Engineering in Graz, Austria working on resolving breakup of sub-Kolmogorov-scale droplets.
 
@@ -97,6 +97,8 @@ Explore to find my research highlights and publications!
 ### Postdoctoral Researcher (May 2025 - Present)
 FLOW, Department of Engineering Mechanics, KTH Royal Institute of Technology
 
+Supervised by [Philipp Schlatter](https://www.lstm.tf.fau.de/person/philipp-schlatter/), [Ramis Örlü](https://www.oslomet.no/en/about/employee/raorl9534/), and [Mihai Mihaescu](https://www.kth.se/profile/mihaescu)
+
 * Performed >10 billion point DNS of a 3D turbulent boundary layer on Europe's first exascale computer (JUPITER) with the GPU-accelerated spectral element solver [Neko](https://neko.cfd)
 * Analysis of structural characteristics of curved and rotating disk turbulent boundary layers
 * Taught and developed exercises for a graduate-level turbulence course
@@ -120,7 +122,9 @@ Research Center Pharmaceutical Engineering, Graz, Austria
 ![image-center](/images/barehull_Qcriterion.png){: .align-center}
 
 ### Graduate Research Assistant (2018 - 2023)
-[Professor Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/), Department of Aerospace Engineering & Mechanics, University of Minnesota
+Computational Fluids Lab, Department of Aerospace Engineering & Mechanics, University of Minnesota
+
+Supervised by [Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/)
 
 * Large-scale (>10000 processor) large-eddy simulations (LES) and direct numerical simulations (DNS) of complex turbulent flows.
   * LES of axisymmetric turbulent boundary layers
@@ -133,7 +137,9 @@ Research Center Pharmaceutical Engineering, Graz, Austria
 ![image-center](/images/particle_liftoff.jpg){: .align-center}
 
 ### Undergraduate Research Assistant (2016 - 2017)
-[Professor Ellen Longmire](https://cse.umn.edu/aem/ellen-k-longmire), Department of Aerospace Engineering & Mechanics, University of Minnesota
+Turbulent Shear Flow Lab, Department of Aerospace Engineering & Mechanics, University of Minnesota
+
+Supervised by [Ellen Longmire](https://cse.umn.edu/aem/ellen-k-longmire)
 
 * Particle lift-off and tracking in a turbulent boundary layer
   * Development of wax-iron oxide spheres with controllable density and magnetic release system
