@@ -112,10 +112,10 @@ Supervised by [Philipp Schlatter](https://www.lstm.tf.fau.de/person/philipp-schl
 ### Group Leader for Multiscale CFD (January 2025 - May 2025) and Senior Scientist (August 2023 - May 2025) 
 Research Center Pharmaceutical Engineering, Graz, Austria
 
-* Led the simulation strategy development for an EU Horizon 2020 project.
-* Coded a boundary element method from scratch to resolve sub-Kolmogorov-scale droplet breakup.
-* Implemented an ethanol-water mixture model in OpenFOAM to simulate impingement jet mixing.
-
+* Led the simulation strategy development for an EU Horizon 2020 project
+* Coded a boundary element method from scratch to resolve sub-Kolmogorov-scale droplet breakup
+* Implemented an ethanol-water mixture model in OpenFOAM to simulate impingement jet mixing
+* 
 
 <br><br>
 
