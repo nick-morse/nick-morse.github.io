@@ -48,7 +48,8 @@ Explore to find my research highlights and publications!
 
 ## Awards
 
-* Best Video, Swedish E-Science Research Centre (SeRC) Annual Meeting
+* Invited Paper, Special Issue of Flow, Turbulence and Combustion (2026)
+* Best Video, Swedish E-Science Research Centre (SeRC) Annual Meeting, 2026
 * Erik Petersohns Memorial Foundation Grant, 2026
 * John A. & Jane Dunning Copper Fellowship for Aerospace Engineering & Mechanics, 2019
 * Donald & Shirley Gorence Scholarship, 2018
