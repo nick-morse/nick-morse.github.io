@@ -141,11 +141,11 @@ Research Center Pharmaceutical Engineering, Graz, Austria
 * Particle image velocimetry
 
 
-<br><br>
+<!-- <br><br>
 
 ![image-center](/images/fsae.jpg){: .align-center}
 
 ### Chief Engineer (2017 - 2018) and Aerodynamics Designer (2014 - 2019) 
 
 
-As an undergraduate student, I spent time as the aerodynamics designer and chief engineer of [University of Minnesota Formula SAE](https://gophermotorsports.com), where I programmed a [MATLAB graphical user interface](https://github.com/nick-morse/MultiElementWingGenerator) to parameterize multi-element wing profiles and automated large-scale ANSYS CFX simulations at the Minnesota Supercomputing Institute.
+As an undergraduate student, I spent time as the aerodynamics designer and chief engineer of [University of Minnesota Formula SAE](https://gophermotorsports.com), where I programmed a [MATLAB graphical user interface](https://github.com/nick-morse/MultiElementWingGenerator) to parameterize multi-element wing profiles and automated large-scale ANSYS CFX simulations at the Minnesota Supercomputing Institute. -->
