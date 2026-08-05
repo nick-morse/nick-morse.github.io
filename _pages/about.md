@@ -20,13 +20,10 @@ Explore to find my research highlights and publications!
 
 ## Research interests
 
-* Fluid dynamics
-* Turbulence
+* Curvature effects on turbulent wall-bounded flows
 * Direct numerical simulation (DNS) and large-eddy simulation (LES)
-* High performance computing
-* Adaptive mesh refinement algorithms
-* Heterogeneous (GPU) computing
-* Multiphase flows
+* High performance computing and heterogeneous (GPU) computing
+* Multiphase flow and adaptive mesh refinement
 
 
 
@@ -36,7 +33,7 @@ Explore to find my research highlights and publications!
 
 **PhD** in Aerospace Engineering & Mechanics, University of Minnesota, 2023
 * Thesis: [*High-fidelity unstructured overset simulation of complex turbulent flows*](https://hdl.handle.net/11299/257091)
-* Adviser: [Professor Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/)
+* Adviser: [Krishnan Mahesh](https://name.engin.umich.edu/people/mahesh-krishnan/)
 
 **MS** in Aerospace Engineering & Mechanics, University of Minnesota, 2020
 
@@ -48,7 +45,7 @@ Explore to find my research highlights and publications!
 
 ## Awards
 
-* Invited Paper, Special Issue of *Flow, Turbulence and Combustion* (2026)
+* Invited Paper, Special Issue of *Flow, Turbulence and Combustion*, 2026
 * Best Video, Swedish E-Science Research Centre (SeRC) Annual Meeting, 2026
 * Erik Petersohns Memorial Foundation Grant, 2026
 * John A. & Jane Dunning Copper Fellowship for Aerospace Engineering & Mechanics, 2019
@@ -65,13 +62,16 @@ Explore to find my research highlights and publications!
 * Co-organizer of an international workshop at the Banff International Research Station: [*Particulates across Scales: Mathematical Modeling, Computation, and Applications*](https://www.birs.ca/events/2025/5-day-workshops/25w5387)
 * Reviewer, *Journal of Fluid Mechanics* and *International Journal of Heat and Fluid Flow*
 
+![image-center](/images/birs_workshop.jpg){: .align-center}
 
 
 <br><br>
 
 ## Teaching
 
-* Developed and taught recitation exercises for a graduate-level turbulence course and led wind tunnel labs for laminar/turbulent boundary layer theory
+* Developed and taught recitation exercises for a graduate-level turbulence course 
+* Led wind tunnel labs for laminar/turbulent boundary layer theory and self-similarity
+* Mentorship of undergraduate research assistant in overset DNS and simulation pre- and post-processing to simulate freely rising/falling particles in six-degree-of-freedom motion
 
 
 <br><br>
@@ -114,7 +114,7 @@ Supervised by [Philipp Schlatter](https://www.lstm.tf.fau.de/person/philipp-schl
 Research Center Pharmaceutical Engineering, Graz, Austria
 
 * Led the simulation strategy development for an EU Horizon 2020 project
-* Coded a boundary element method from scratch to resolve sub-Kolmogorov-scale droplet breakup
+* Developed a boundary element method to resolve sub-Kolmogorov-scale droplet breakup
 * Implemented an ethanol-water mixture model in OpenFOAM to simulate impingement jet mixing
 
 
