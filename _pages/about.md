@@ -116,7 +116,7 @@ Research Center Pharmaceutical Engineering, Graz, Austria
 * Led the simulation strategy development for an EU Horizon 2020 project
 * Coded a boundary element method from scratch to resolve sub-Kolmogorov-scale droplet breakup
 * Implemented an ethanol-water mixture model in OpenFOAM to simulate impingement jet mixing
-* 
+
 
 <br><br>
 
