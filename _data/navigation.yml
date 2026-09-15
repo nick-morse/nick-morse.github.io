@@ -23,6 +23,10 @@ main:
   - title: "CV"
     url: /files/NickMorse_CV.pdf
 
+  - title: "Gallery"
+    url: /gallery/
+    
+
   # - title: "Extras"
   #   url: /extras/
 
