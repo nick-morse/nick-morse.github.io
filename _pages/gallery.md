@@ -63,7 +63,7 @@ Visualizations (Q-criterion isocontours colored by spanwise vorticity) from dire
 <div class="gallery-video-row" style="display:flex;flex-wrap:nowrap;gap:1rem;justify-content:center;margin-top:2rem;">
   <div style="flex:1 1 50%;min-width:0;">
     <video controls style="width:100%;height:auto;">
-      <source src="/videos/JICF_R2_upstream.mp4" type="video/mp4">
+      <source src="/videos/JICF_R4_upstream.mp4" type="video/mp4">
     </video>
     <p style="text-align:center;">$R = 4$, $\phi = 0^\circ$</p>
   </div>
