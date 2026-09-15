@@ -79,7 +79,7 @@ Explore to find my research highlights and publications!
 ## Experience
 
 
-![image-center](/images/Disk_Inst_Flow.pdf){: .align-center}
+![image-center](/images/Disk_Temperature_Fluctuation.png){: .align-center}
 
 ### Postdoctoral Researcher (May 2025 - Present)
 FLOW, Department of Engineering Mechanics, KTH Royal Institute of Technology
@@ -94,7 +94,7 @@ Supervised by [Philipp Schlatter](https://www.lstm.tf.fau.de/person/philipp-schl
 
 <br><br>
 
-![image-center](/images/simulation_framework_figure.pdf){: .align-center}
+![image-center](/images/simulation_framework_figure.png){: .align-center}
 
 ### Group Leader for Multiscale CFD (January 2025 - May 2025) and Senior Scientist (August 2023 - May 2025) 
 Research Center Pharmaceutical Engineering, Graz, Austria
